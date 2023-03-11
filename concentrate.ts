@@ -20,7 +20,7 @@ import yargs from "yargs";
 
 (async () => {
   const options = yargs
-    .usage("Usage: -f <file> -o <file> --yaml --toml")
+    .usage("Usage: -f <file> --yaml --toml")
     .option("f", {
       alias: "file",
       describe: "JSON file to concentrate",
@@ -38,7 +38,7 @@ import yargs from "yargs";
       demandOption: false,
     }).argv;
 
-  const { file, output, yaml, toml } = options;
+  const { file, yaml, toml } = options;
 
   const input = await readFile(file, { encoding: "utf8" });
   const data = JSON.parse(input);
