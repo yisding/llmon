@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@iarna/toml": "^2.2.5",
+    "bson": "^5.0.1",
+    "prettier": "^2.8.4",
+    "ts-node": "^10.9.1",
+    "yaml": "^2.2.1",
+    "yargs": "^17.7.1"
+  }
+}
