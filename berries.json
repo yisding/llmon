@@ -1,0 +1,212 @@
+{
+  "berries": [
+    {
+      "name": "Strawberry",
+      "scientific_name": "Fragaria × ananassa",
+      "color": "Red",
+      "edible": true,
+      "origin": {
+        "continent": "North America",
+        "region": "Eastern United States"
+      },
+      "discovery": {
+        "year": 1750,
+        "discoverer": "Unknown"
+      },
+      "taste": "Sweet and slightly tart",
+      "uses": ["Jams", "Pies", "Smoothies"]
+    },
+    {
+      "name": "Blueberry",
+      "scientific_name": "Vaccinium corymbosum",
+      "color": "Blue",
+      "edible": true,
+      "origin": {
+        "continent": "North America",
+        "region": "Eastern United States"
+      },
+      "discovery": {
+        "year": 1750,
+        "discoverer": "Unknown"
+      },
+      "taste": "Sweet and tangy",
+      "uses": ["Pancakes", "Muffins", "Smoothies"]
+    },
+    {
+      "name": "Blackberry",
+      "scientific_name": "Rubus fruticosus",
+      "color": "Black",
+      "edible": true,
+      "origin": {
+        "continent": "Europe",
+        "region": "Western Asia"
+      },
+      "discovery": {
+        "year": "Unknown",
+        "discoverer": "Unknown"
+      },
+      "taste": "Sweet and slightly tart",
+      "uses": ["Jams", "Pies", "Cakes"]
+    },
+    {
+      "name": "Raspberry",
+      "scientific_name": "Rubus idaeus",
+      "color": "Red",
+      "edible": true,
+      "origin": {
+        "continent": "Europe",
+        "region": "Eastern Europe"
+      },
+      "discovery": {
+        "year": "Unknown",
+        "discoverer": "Unknown"
+      },
+      "taste": "Sweet and slightly tart",
+      "uses": ["Jams", "Pies", "Cakes"]
+    },
+    {
+      "name": "Gooseberry",
+      "scientific_name": "Ribes uva-crispa",
+      "color": "Green",
+      "edible": true,
+      "origin": {
+        "continent": "Europe",
+        "region": "Western Asia"
+      },
+      "discovery": {
+        "year": "Unknown",
+        "discoverer": "Unknown"
+      },
+      "taste": "Tart and slightly sweet",
+      "uses": ["Jams", "Pies", "Sauces"]
+    },
+    {
+      "name": "Cranberry",
+      "scientific_name": "Vaccinium oxycoccos",
+      "color": "Red",
+      "edible": true,
+      "origin": {
+        "continent": "North America",
+        "region": "Eastern United States"
+      },
+      "discovery": {
+        "year": "Unknown",
+        "discoverer": "Unknown"
+      },
+      "taste": "Tart and slightly sweet",
+      "uses": ["Sauces", "Juices", "Jellies"]
+    },
+    {
+      "name": "Boysenberry",
+      "scientific_name": "Rubus ursinus × idaeus",
+      "color": "Red",
+      "edible": true,
+      "origin": {
+        "continent": "North America",
+        "region": "California, United States"
+      },
+      "discovery": {
+        "year": 1923,
+        "discoverer": "Rudolph Boysen"
+      },
+      "taste": "Sweet and tart",
+      "uses": ["Jams", "Pies", "Cakes"]
+    },
+    {
+      "name": "Elderberry",
+      "scientific_name": "Sambucus nigra",
+      "color": "Purple",
+      "edible": true,
+      "origin": {
+        "continent": "Europe",
+        "region": "Western Asia"
+      },
+      "discovery": {
+        "year": "Unknown",
+        "discoverer": "Unknown"
+      },
+      "taste": "Tart and slightly sweet",
+      "uses": ["Jams", "Syrups", "Wine"]
+    },
+    {
+      "name": "Mulberry",
+      "scientific_name": "Morus",
+      "color": "Black",
+      "edible": true,
+      "origin": {
+        "continent": "Asia",
+        "region": "China"
+      },
+      "discovery": {
+        "year": "Unknown",
+        "discoverer": "Unknown"
+      },
+      "taste": "Sweet and slightly tart",
+      "uses": ["Jams", "Pies", "Wine"]
+    },
+    {
+      "name": "Acai Berry",
+      "scientific_name": "Euterpe oleracea",
+      "color": "Purple",
+      "edible": true,
+      "origin": {
+        "continent": "South America",
+        "region": "Amazon Rainforest"
+      },
+      "discovery": {
+        "year": "Unknown",
+        "discoverer": "Unknown"
+      },
+      "taste": "Tangy and slightly sweet",
+      "uses": ["Smoothie bowls", "Juices", "Energy bars"]
+    },
+    {
+      "name": "Bilberry",
+      "scientific_name": "Vaccinium myrtillus",
+      "color": "Blue",
+      "edible": true,
+      "origin": {
+        "continent": "Europe",
+        "region": "Northern Europe"
+      },
+      "discovery": {
+        "year": "Unknown",
+        "discoverer": "Unknown"
+      },
+      "taste": "Sweet and tangy",
+      "uses": ["Jams", "Pies", "Wine"]
+    },
+    {
+      "name": "Cloudberry",
+      "scientific_name": "Rubus chamaemorus",
+      "color": "Orange",
+      "edible": true,
+      "origin": {
+        "continent": "Europe",
+        "region": "Northern Europe"
+      },
+      "discovery": {
+        "year": "Unknown",
+        "discoverer": "Unknown"
+      },
+      "taste": "Tangy and slightly sweet",
+      "uses": ["Jams", "Pies", "Liqueurs"]
+    },
+    {
+      "name": "Currant",
+      "scientific_name": "Ribes",
+      "color": "Red",
+      "edible": true,
+      "origin": {
+        "continent": "Europe",
+        "region": "Northern Europe"
+      },
+      "discovery": {
+        "year": "Unknown",
+        "discoverer": "Unknown"
+      },
+      "taste": "Tart and slightly sweet",
+      "uses": ["Jams", "Jellies", "Syrups"]
+    }
+  ]
+}
