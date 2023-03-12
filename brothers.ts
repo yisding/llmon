@@ -26,7 +26,7 @@ import { getAide, objectSubtrees } from "./utils";
   const slices = objectSubtrees(data, levelsDown);
 
   for (let i = 0; i < slices.length; ++i) {
-    console.log(`SLICE ${i}:`);
+    console.log(`BROTHERS ${i}:`);
     const sliceText = JSON.stringify(slices[i])
     console.log(sliceText);
     const text = await getAide(sliceText);

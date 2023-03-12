@@ -1,9 +1,9 @@
 # LLMON
-LLMON (pronounced limón) is a structured data format optimized for large language models
+LLMON (pronounced limón) is a structured data format optimized for large language models.
 
 ## LLMONconcentrate
 
-Convert the structured input into a format that's more concise, yet still understandable by LLMs
+Convert the structured input into a format that's more concise, yet still understandable by LLMs.
 
 ## LLMONslice
 
@@ -15,4 +15,4 @@ LLMONaide is a plain text description of the JSON data, which is easier for larg
 
 ## LLMONbrothers
 
-LLMONbrothers are pairs of data and its LLMONjus. The LLMONjus is used for embedding similarity matching and the original LLMON is used for question and answer to LLMs.
+LLMONbrothers are pairs of data and its LLMONaide. The LLMONaide is used for embedding similarity matching and the original LLMON is used for question and answer to LLMs.

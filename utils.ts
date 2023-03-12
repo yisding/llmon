@@ -37,22 +37,18 @@ export function objectSubtrees(data: any, levelsLeft: number): any[] {
 }
 
 export const getAide = async (input) => {
-  const openai = new OpenAIApi(
-    new Configuration({
-      apiKey: process.env.OPENAI_API_KEY,
-    })
-  );
+  const openai = OpenAI();
 
   const prompt = `Data:
-  ${input}
+${input}
   
-  Write a paragraph using all of the following data. PLEASE USE EVERY FIELD!
-  `;
+Write a paragraph using all of the following data. PLEASE USE EVERY FIELD!
+`;
 
   const { data } = await openai.createCompletion({
     model: "text-davinci-003",
     prompt,
-    max_tokens: 3000,
+    max_tokens: 2000,
     temperature: 0.1,
     presence_penalty: 0,
     frequency_penalty: 0,
