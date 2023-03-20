@@ -4,7 +4,7 @@
     "bson": "^5.1.0",
     "lodash": "^4.17.21",
     "openai": "^3.2.1",
-    "prettier": "^2.8.4",
+    "prettier": "^2.8.5",
     "quicktype-core": "^23.0.17",
     "ts-node": "^10.9.1",
     "yaml": "^2.2.1",
