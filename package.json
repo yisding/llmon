@@ -5,7 +5,7 @@
     "lodash": "^4.17.21",
     "openai": "^3.2.1",
     "prettier": "^2.8.7",
-    "quicktype-core": "^23.0.19",
+    "quicktype-core": "^23.0.36",
     "ts-node": "^10.9.1",
     "yaml": "^2.2.1",
     "yargs": "^17.7.1"
